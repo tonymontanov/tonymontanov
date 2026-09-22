@@ -2,9 +2,21 @@
 
 ## Trader, Managing Partner & Developer of HFT Trading Infrastructure
 
-Managing Partner at [BDPB](https://bdpb.trading). Trading crypto perpetuals and spot with a latency-sensitive, tick-by-tick approach, and building the infrastructure behind it: low-latency exchange gateways, order-book engines, and execution tooling in Go. Author of a family of high-performance Go SDKs for centralized and on-chain exchanges (OKX, Bybit, Hyperliquid, MOEX, and more).
+Managing Partner at [BDPB](https://bdpb.trading). Trading crypto perpetuals and spot with a latency-sensitive, tick-by-tick approach, and building the infrastructure behind it: low-latency exchange gateways, order-book engines, and execution tooling in Go. Former head of the market-microstructure direction and developer of the SpreadFighter analytics platform. Author of a family of high-performance Go SDKs for centralized and on-chain exchanges (OKX, Bybit, Hyperliquid, MOEX, and more).
 
-[![Go](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg)](https://go.dev/doc/) [![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/) [![Ethereum](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg)](https://ethereum.org/en/) [![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg)](https://www.postgresql.org/) [![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)](https://www.docker.com/) [![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg)](https://www.linux.org) [![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)](https://git-scm.com/)
+<p align="left">
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
 
 ## Professional Experience
 
@@ -39,16 +51,28 @@ Managing Partner at [BDPB](https://bdpb.trading). Trading crypto perpetuals and 
 
 ---
 
+### Head of Market Microstructure & Analytics Platform Developer — SpreadFighter
+
+*1.5 years, analytical platform for crypto markets*
+
+- Led the market-microstructure direction: research on order-flow, spreads, liquidity and execution quality across crypto venues.
+- Developed the SpreadFighter analytical platform (JavaScript / TypeScript): real-time and historical analytics on tick-by-tick trades and order-book data.
+- Turned microstructure research into tools and metrics used by traders for venue selection, timing and execution.
+
+---
+
 ## Technical Skills
 
 ### Programming Languages
 
-- Primary: Golang
-- Secondary: Python
+- Primary: Golang, Rust, C++
+- Secondary: Python, TypeScript / JavaScript, Pinescript
 
 ### Tools & Frameworks
 
 - **Market Data**: WebSocket streams, L2/L3 order books, tick-by-tick trades, FIX 4.4
+- **Frontend / Analytics**: TypeScript, JavaScript
+- **TradingView**: Pinescript indicators and strategies
 - **Backend**: PostgreSQL, Docker, Linux, Prometheus-style metrics
 - **Exchange Integration**: OKX, Bybit, Bitget, Gate, KuCoin, Binance, Hyperliquid, Lighter, Aster, Variational, MOEX
 
