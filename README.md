@@ -39,7 +39,7 @@ Managing Partner at [BDPB](https://bdpb.trading). Trading crypto perpetuals and 
 
 #### Execution & Order Management
 
-- Full trading surface per venue: create / modify / cancel, batch operations, cancel-all, position and leverage management, demo and testnet modes.
+- Full trading surface per venue: from primitives — create / modify / cancel, batch operations, cancel-all, etc. — up to complex algorithmic execution (TWAP, Implementation Shortfall, Grid, Chase, etc.). Position and leverage management, demo and testnet modes.
 - REST and WebSocket order entry behind a single API; SDK-side rate-limit accounting where the exchange provides none.
 - Exchange-precision handling without floats (significant-figure and decimal rules, integer-price rules) enforced at the type level.
 - Byte-for-byte signing compatibility with official reference SDKs (EIP-712 / secp256k1 for on-chain venues, HMAC-SHA256 for CEX), verified with generated reference vectors.
